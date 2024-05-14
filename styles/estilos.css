@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Caesar+Dressing&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Reddit+Mono:wght@200..900&display=swap');
+.titulo{
+    font-family: "Caesar Dressing", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    text-shadow: 3px 3px 1px #8b9dad;
+}
+
+body{
+    background-color: yellow
+}
+
+.subtitulo{
+    color: aqua;
+}
+
+.paragrafo p{
+    color: blueviolet;
+}
+
+.tituloli{
+    text-align: center;
+}
+
+.titulo1{
+    text-align: center;
+}
+
+.titulo2{
+    text-align: center;
+}
+
+.lista{
+    text-align: center;
+    
+}
+
+.Imagem{
+    text-align: center;
+}
+
+.titulo2{
+    text-align: center;
+}
